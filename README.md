@@ -12,8 +12,8 @@ MomentumAI is an agentic AI concierge built with Streamlit and Google's Gemini A
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/momentum-ai.git
-   cd momentum-ai
+   git clone https://github.com/Joshuapenielcollins/MomentumAI.git
+   cd MomentumAI
    ```
 
 2. **Install dependencies:**
