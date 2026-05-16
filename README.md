@@ -1,6 +1,5 @@
 # MomentumAI 🏏
 
-**[🚀 Try it Live on Google Cloud Run](https://momentum-ai-283188353851.us-central1.run.app/)**
 ## 🎯 The problem
 When the IPL final is on, your girlfriend gets ignored, your mom worries, your boss waits, your food shows up at the wrong time, and you still miss the clutch moment fumbling on a delivery app. Every sports app makes this worse.
 
@@ -12,6 +11,9 @@ A Gemini-powered agent watches the live match. When key moments happen — a wic
 - 🚗 Books your Uber before the final whistle
 - 🏠 Triggers smart home celebration when your team wins
 - 🤝 Coordinates with friends' agents across cities
+
+- **[🚀 Try it Live on Google Cloud Run](https://momentum-ai-283188353851.us-central1.run.app/)**
+Note : Scroll and click the Start Simulation to similate a Match scenario
 
 ## Features
 - 📡 **Live Match Mode**: Architecture designed to hook into real-time sports APIs for live event tracking.
