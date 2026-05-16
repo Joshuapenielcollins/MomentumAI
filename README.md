@@ -1,5 +1,6 @@
 # MomentumAI 🏏
 
+**[🚀 Try it Live on Google Cloud Run](https://momentum-ai-283188353851.us-central1.run.app/)**
 MomentumAI is an agentic AI concierge built with Streamlit and Google's Gemini API, designed to run your life around the sports matches you love. It acts as an autonomous agent that manages incoming messages, anticipates conflicts, monitors live matches, and makes decisions on your behalf so you never miss a clutch moment.
 
 ## Features
